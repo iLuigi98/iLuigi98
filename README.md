@@ -4,7 +4,7 @@ I'm a **Data Scientist & Analyst** with a strong foundation in **ETL pipelines**
 
 I'm currently pursuing my **Master's in Data Science at UC San Diego** while working on projects that mix data engineering, finance, and NLP.
 
----
+<hr style="border: 0; height: 1px; background: #ccc; margin: 2em 0;" />
 
 ### 🚀 Latest Projects
 
@@ -17,7 +17,7 @@ I'm currently pursuing my **Master's in Data Science at UC San Diego** while wor
 - 💬 <strong>Reddit & Twitter Sentiment Tracker</strong>  
   NLP-based pipeline using LLMs + topic modeling, tracked with interactive dashboards.
 
----
+<hr style="border: 0; height: 1px; background: #ccc; margin: 2em 0;" />
 
 ### 🛠️ Technologies & Tools I Use
 
@@ -26,7 +26,6 @@ I'm currently pursuing my **Master's in Data Science at UC San Diego** while wor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="scikit-learn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB"/>
@@ -34,7 +33,6 @@ I'm currently pursuing my **Master's in Data Science at UC San Diego** while wor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
@@ -42,18 +40,17 @@ I'm currently pursuing my **Master's in Data Science at UC San Diego** while wor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="40" alt="Kafka"/>
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" height="40" alt="Tableau"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="40" alt="Power BI"/>
 </p>
 
----
+<hr style="border: 0; height: 1px; background: #ccc; margin: 2em 0;" />
 
 ### 💡 Currently learning & building
 
 - 🧠 Meta-modeling & backtesting strategies for market predictions  
 - 🔌 API development & deployment via Streamlit / FastAPI
 
----
+<hr style="border: 0; height: 1px; background: #ccc; margin: 2em 0;" />
 
 ### 🤝 Let’s Connect!
 
@@ -64,25 +61,29 @@ I'm currently pursuing my **Master's in Data Science at UC San Diego** while wor
   <a href="https://www.linkedin.com/in/luigi-chengwj/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Luigi%20Cheng-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/iLuigi98" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-iLuigi98-black?style=for-the-badge&logo=github" alt="GitHub Badge"/>
-  </a>
   <a href="https://luigidata.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-Luigidata.com-9cf?style=for-the-badge&logo=vercel" alt="Website Badge"/>
   </a>
 </p>
 
----
+<hr style="border: 0; height: 1px; background: #ccc; margin: 2em 0;" />
 
 ### 💬 Fun Facts About Me
-
-- 🍝 I'm a mega foodie — obsessed with Italian and Japanese cuisine  
-- 📚 I read *One Piece* and *Mob Psycho 100* nonstop  
-- 🏀 Big fan of Klay Thompson and shooting hoops  
+- 🍝 I’m a mega foodie, especially when it comes to Italian and Japanese cuisine
+- 📚 I love reading manga. My favorites are <em>One Piece</em> and <em>Mob Psycho 100</em>
+- 🏀 I watch and play basketball. Klay Thompson is my go-to player
 - 🌍 Born in Italy 🇮🇹, roots in China 🇨🇳, now coding in the U.S. 🇺🇸
 
----
+<hr style="border: 0; height: 1px; background: #ccc; margin: 2em 0;" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iLuigi98&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLuigi98&layout=compact&theme=tokyonight&langs_count=10" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iLuigi98&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
