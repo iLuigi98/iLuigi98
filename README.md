@@ -66,5 +66,5 @@ I'm currently pursuing my **Master's in Data Science at UC San Diego** while wor
 ## 
 
 <p align="center">
-  <img src="data_meme.jpg" alt="Description" width="400">
+  <img src="catmeme.jpeg" alt="Description" width="400">
 </p>
