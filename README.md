@@ -4,7 +4,7 @@ I'm a **Data Scientist & Analyst** with a strong foundation in **ETL pipelines**
 
 I'm currently pursuing my **Master's in Data Science at UC San Diego** while working on projects that mix data engineering, finance, and NLP.
 
-<hr style="border: 0; height: 1px; background: #ccc; margin: 2em 0;" />
+<img src="https://via.placeholder.com/600x1/cccccc/cccccc" alt="divider" />
 
 ### 🚀 Latest Projects
 
@@ -17,7 +17,7 @@ I'm currently pursuing my **Master's in Data Science at UC San Diego** while wor
 - 💬 <strong>Reddit & Twitter Sentiment Tracker</strong>  
   NLP-based pipeline using LLMs + topic modeling, tracked with interactive dashboards.
 
-<hr style="border: 0; height: 1px; background: #ccc; margin: 2em 0;" />
+<img src="https://via.placeholder.com/600x1/cccccc/cccccc" alt="divider" />
 
 ### 🛠️ Technologies & Tools I Use
 
@@ -43,14 +43,14 @@ I'm currently pursuing my **Master's in Data Science at UC San Diego** while wor
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="40" alt="Power BI"/>
 </p>
 
-<hr style="border: 0; height: 1px; background: #ccc; margin: 2em 0;" />
+<img src="https://via.placeholder.com/600x1/cccccc/cccccc" alt="divider" />
 
 ### 💡 Currently learning & building
 
 - 🧠 Meta-modeling & backtesting strategies for market predictions  
 - 🔌 API development & deployment via Streamlit / FastAPI
 
-<hr style="border: 0; height: 1px; background: #ccc; margin: 2em 0;" />
+<img src="https://via.placeholder.com/600x1/cccccc/cccccc" alt="divider" />
 
 ### 🤝 Let’s Connect!
 
@@ -66,24 +66,10 @@ I'm currently pursuing my **Master's in Data Science at UC San Diego** while wor
   </a>
 </p>
 
-<hr style="border: 0; height: 1px; background: #ccc; margin: 2em 0;" />
+<img src="https://via.placeholder.com/600x1/cccccc/cccccc" alt="divider" />
 
 ### 💬 Fun Facts About Me
 - 🍝 I’m a mega foodie, especially when it comes to Italian and Japanese cuisine
 - 📚 I love reading manga. My favorites are <em>One Piece</em> and <em>Mob Psycho 100</em>
 - 🏀 I watch and play basketball. Klay Thompson is my go-to player
 - 🌍 Born in Italy 🇮🇹, roots in China 🇨🇳, now coding in the U.S. 🇺🇸
-
-<hr style="border: 0; height: 1px; background: #ccc; margin: 2em 0;" />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iLuigi98&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLuigi98&layout=compact&theme=tokyonight&langs_count=10" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iLuigi98&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
