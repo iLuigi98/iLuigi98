@@ -4,9 +4,7 @@ I'm a **Data Scientist & Analyst** with a strong foundation in **ETL pipelines**
 
 I'm currently pursuing my **Master's in Data Science at UC San Diego** while working on projects that mix data engineering, finance, and NLP.
 
-<hr style="margin: 24px 0; height: 1px; background-color: #e1e4e8; border: none;" />
-
-### 🚀 Latest Projects
+## 🚀 Latest Projects
 
 - 📈 <strong>Financial Market Predictive Models Series</strong>  
   Simulates trade decisions with engineered financial features and ML modeling.
@@ -17,9 +15,7 @@ I'm currently pursuing my **Master's in Data Science at UC San Diego** while wor
 - 💬 <strong>Reddit & Twitter Sentiment Tracker</strong>  
   NLP-based pipeline using LLMs + topic modeling, tracked with interactive dashboards.
 
-<hr style="margin: 24px 0; height: 1px; background-color: #e1e4e8; border: none;" />
-
-### 🛠️ Technologies & Tools I Use
+## 🛠️ Technologies & Tools I Use
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
@@ -42,16 +38,12 @@ I'm currently pursuing my **Master's in Data Science at UC San Diego** while wor
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="40" alt="Power BI"/>
 </p>
 
-<hr style="margin: 24px 0; height: 1px; background-color: #e1e4e8; border: none;" />
-
-### 💡 Currently learning & building
+## 💡 Currently learning & building
 
 - 🧠 Meta-modeling & backtesting strategies for market predictions  
 - 🔌 API development & deployment via Streamlit / FastAPI
 
-<hr style="margin: 24px 0; height: 1px; background-color: #e1e4e8; border: none;" />
-
-### 🤝 Let’s Connect!
+## 🤝 Let’s Connect!
 
 <p align="center">
   <a href="mailto:luigi@luigidata.com" target="_blank">
@@ -65,9 +57,7 @@ I'm currently pursuing my **Master's in Data Science at UC San Diego** while wor
   </a>
 </p>
 
-<hr style="margin: 24px 0; height: 1px; background-color: #e1e4e8; border: none;" />
-
-### 💬 Fun Facts About Me
+## 💬 Fun Facts About Me
 - 🍝 I’m a mega foodie, especially when it comes to Italian and Japanese cuisine
 - 📚 I love reading manga. My favorites are <em>One Piece</em> and <em>Mob Psycho 100</em>
 - 🏀 I watch and play basketball. Klay Thompson is my go-to player
