@@ -4,7 +4,7 @@ I'm a **Data Scientist & Analyst** with a strong foundation in **ETL pipelines**
 
 I'm currently pursuing my **Master's in Data Science at UC San Diego** while working on projects that mix data engineering, finance, and NLP.
 
-<img src="https://via.placeholder.com/600x1/cccccc/cccccc" alt="divider" />
+<hr />
 
 ### 🚀 Latest Projects
 
@@ -17,7 +17,7 @@ I'm currently pursuing my **Master's in Data Science at UC San Diego** while wor
 - 💬 <strong>Reddit & Twitter Sentiment Tracker</strong>  
   NLP-based pipeline using LLMs + topic modeling, tracked with interactive dashboards.
 
-<img src="https://via.placeholder.com/600x1/cccccc/cccccc" alt="divider" />
+<hr />
 
 ### 🛠️ Technologies & Tools I Use
 
@@ -43,14 +43,14 @@ I'm currently pursuing my **Master's in Data Science at UC San Diego** while wor
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="40" alt="Power BI"/>
 </p>
 
-<img src="https://via.placeholder.com/600x1/cccccc/cccccc" alt="divider" />
+<hr />
 
 ### 💡 Currently learning & building
 
 - 🧠 Meta-modeling & backtesting strategies for market predictions  
 - 🔌 API development & deployment via Streamlit / FastAPI
 
-<img src="https://via.placeholder.com/600x1/cccccc/cccccc" alt="divider" />
+<hr />
 
 ### 🤝 Let’s Connect!
 
