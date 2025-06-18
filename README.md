@@ -4,7 +4,7 @@ I'm a **Data Scientist & Analyst** with a strong foundation in **ETL pipelines**
 
 I'm currently pursuing my **Master's in Data Science at UC San Diego** while working on projects that mix data engineering, finance, and NLP.
 
-<hr />
+<hr style="height:1px;border:none;color:#e1e4e8;background-color:#e1e4e8;" />
 
 ### 🚀 Latest Projects
 
@@ -17,7 +17,7 @@ I'm currently pursuing my **Master's in Data Science at UC San Diego** while wor
 - 💬 <strong>Reddit & Twitter Sentiment Tracker</strong>  
   NLP-based pipeline using LLMs + topic modeling, tracked with interactive dashboards.
 
-<hr />
+<hr style="height:1px;border:none;color:#e1e4e8;background-color:#e1e4e8;" />
 
 ### 🛠️ Technologies & Tools I Use
 
@@ -42,14 +42,14 @@ I'm currently pursuing my **Master's in Data Science at UC San Diego** while wor
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" height="40" alt="Power BI"/>
 </p>
 
-<hr />
+<hr style="height:1px;border:none;color:#e1e4e8;background-color:#e1e4e8;" />
 
 ### 💡 Currently learning & building
 
 - 🧠 Meta-modeling & backtesting strategies for market predictions  
 - 🔌 API development & deployment via Streamlit / FastAPI
 
-<hr />
+<hr style="height:1px;border:none;color:#e1e4e8;background-color:#e1e4e8;" />
 
 ### 🤝 Let’s Connect!
 
@@ -65,7 +65,7 @@ I'm currently pursuing my **Master's in Data Science at UC San Diego** while wor
   </a>
 </p>
 
-<hr />
+<hr style="height:1px;border:none;color:#e1e4e8;background-color:#e1e4e8;" />
 
 ### 💬 Fun Facts About Me
 - 🍝 I’m a mega foodie, especially when it comes to Italian and Japanese cuisine
