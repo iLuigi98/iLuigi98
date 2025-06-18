@@ -62,3 +62,9 @@ I'm currently pursuing my **Master's in Data Science at UC San Diego** while wor
 - 📚 I love reading manga. My favorites are <em>One Piece</em> and <em>Mob Psycho 100</em>
 - 🏀 I watch and play basketball. Klay Thompson is my go-to player
 - 🌍 Born in Italy 🇮🇹, roots in China 🇨🇳, now coding in the U.S. 🇺🇸
+
+## 
+
+<p align="center">
+  <img src="data_meme.jpg" alt="Description" width="400">
+</p>
