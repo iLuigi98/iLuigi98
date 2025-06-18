@@ -66,7 +66,7 @@ I'm currently pursuing my **Master's in Data Science at UC San Diego** while wor
   </a>
 </p>
 
-<img src="https://via.placeholder.com/600x1/cccccc/cccccc" alt="divider" />
+<hr />
 
 ### 💬 Fun Facts About Me
 - 🍝 I’m a mega foodie, especially when it comes to Italian and Japanese cuisine
