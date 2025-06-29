@@ -13,6 +13,6 @@ I'm currently pursuing my **Master's in Data Science at UC San Diego** while wor
 
 | Find here | Contact me about | Also see |
 | :-- | :-- | :-- |
-| <ul><li>📊 Real-world data science projects</li><li>🍜 Restaurant analytics & recommender systems</li><li>📈 Financial forecasting with ML</li></ul> | <ul><li>🎓 Data science roles, collaboration, or mentorship</li><li>🤖 NLP, machine learning, cloud workflows</li><li>📬 Fun ideas using real-world messy data</li></ul> | <ul><li>🌐 <a href='https://luigidata.com'>Website</a></li><li>💼 <a href='https://linkedin.com/in/luigi-chengwj'>LinkedIn</a></li><li>🐙 <a href='https://github.com/iLuigi98'>GitHub</a></li></ul>
+| <ul><li>📂 End-to-end data pipelines</li><li>🧠 NLP + LLM projects</li><li>📈 Financial forecasting with ML</li></ul> | <ul><li>🎓 Data science roles, collaboration, and jobs</li><li>🤖 Machine learning or cloud workflows</li><li>📬 Fun ideas using real-world messy data</li></ul> | <ul><li>🌐 <a href='https://luigidata.com'>Website</a></li><li>💼 <a href='https://linkedin.com/in/luigi-chengwj'>LinkedIn</a></li></ul>
 
 </div>
