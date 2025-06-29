@@ -3,12 +3,12 @@
 <div align='right'>
 
 ## Welcome to Luigi Cheng's GitHub
+</div>
 
 I'm a **Data Scientist & Analyst** with a strong foundation in **ETL pipelines**, **SQL dashboards**, and **machine learning models**. My work spans across restaurant analytics, international manufacturing data, and real-time business monitoring.
 
 I'm currently pursuing my **Master's in Data Science at UC San Diego** while working on projects that mix data engineering, finance, and NLP.
 
-</div>
 <div align='center'>
 
 | Find here | Contact me about | Also see |
